@@ -4,6 +4,10 @@
 
 The Expense Tracker App is a user-friendly mobile application developed using Flutter, designed to help users manage and track their expenses efficiently. This app offers a convenient way to keep a close eye on your spending habits, categorize expenses, and maintain a better financial balance. Whether for personal use or managing household expenses, this app is an ideal companion for anyone looking to bring more organization to their financial life.
 
+## Demo
+
+Open the deployed demo [here](https://flutter-expense-tracker-adala.netlify.app/) on mobile for the best experience.
+
 ## Screenshots
 
 ![Mockups](assets/images/mockups.png)
